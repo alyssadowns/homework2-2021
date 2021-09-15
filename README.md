@@ -1,2 +1,2 @@
-# homework2-2021
-Uno homework assignment for SI 539
+# hw2-2020
+The starter code for Homework 2 Winter 2021 term
