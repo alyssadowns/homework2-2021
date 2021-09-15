@@ -1,5 +1,5 @@
 body {
-  font-family: 'Times New Roman', san-serif;
+  font-family: 'Times New Roman', sans-serif;
   color: #ffffff;
   background-color: #000000;
   }
@@ -30,16 +30,22 @@ img {
 #red {
   background-color: #ff0000;
   text-align: right;
+  min-height: 150px;
+  padding: 25px;
 }
 
 #blue {
   background-color: #0000ff;
   text-align: left;
+  min-height: 150px;
+  padding: 25px;
 }
 
 #yellow {
   background: #ffff00;
   text-align: right;
+  min-height: 150px;
+  padding: 25px;
 }
 
 #yellow p {
@@ -55,6 +61,8 @@ img {
 #green {
   background: #008000;
   text-align: left;
+  min-height: 150px;
+  padding: 25px;
 }
 
 footer {
